@@ -6,6 +6,7 @@ author: Nueza
 date: 2022-08-02T02:03:28.467Z
 tags:
   - post
+  - featured
 image: /assets/blog/diseno-en-la-naturaleza-portada.jpg
 imageAlt: The big Lake
 ---
